@@ -32,5 +32,5 @@ By completing these challenges, players will practice:
 
 1. **Extract the challenge archive:**
    ```bash
-   tar -xzvf myctfs.tar.gz
-   cd myctfs
+   tar -xzvf Myctfs.tar.gz
+   cd rmyctfs1
